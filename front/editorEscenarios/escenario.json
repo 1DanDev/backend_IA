@@ -1,0 +1,42 @@
+[
+    {
+        "path": "obstaculo3.png",
+        "pos": [
+            631,
+            349
+        ],
+        "angle": 0
+    },
+    {
+        "path": "bandera.png",
+        "pos": [
+            795,
+            134
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo8.png",
+        "pos": [
+            369,
+            221
+        ],
+        "angle": 0
+    },
+    {
+        "path": "robot.png",
+        "pos": [
+            112,
+            542
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo7.png",
+        "pos": [
+            863,
+            529
+        ],
+        "angle": 0
+    }
+]

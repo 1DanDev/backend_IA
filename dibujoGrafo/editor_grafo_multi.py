@@ -7,10 +7,10 @@ import json
 # Asegúrate de que 'casa.png' esté en el mismo directorio que tu script.
 imagenes_config = [
     {"nombre": "casa.png"},
-    {"nombre": "edificio.png"},
-    {"nombre": "arbol.png"},
-    {"nombre": "roca.png"},
-    {"nombre": "coche.png"}
+    # {"nombre": "edificio.png"},
+    # {"nombre": "arbol.png"},
+    # {"nombre": "roca.png"},
+    # {"nombre": "coche.png"}
 ]
 
 canvas = np.ones((800, 1200, 3), dtype=np.uint8) * 255 # Crea un lienzo blanco
@@ -61,6 +61,7 @@ for config in imagenes_config:
 
     imagenes_cargadas.append((img_resized, (x_off, y_off)))
 
+print(imagenes_cargadas)
 
 # === FUNCIONES ===
 def extraer_vertices_desde_imagen(img, offset):

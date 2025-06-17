@@ -1,0 +1,74 @@
+[
+    {
+        "path": "recursos/arbol.png",
+        "pos": [
+            700,
+            164
+        ],
+        "angle": 0
+    },
+    {
+        "path": "cafeteria.png",
+        "pos": [
+            687,
+            426
+        ],
+        "angle": 0
+    },
+    {
+        "path": "bandera.png",
+        "pos": [
+            897,
+            99
+        ],
+        "angle": 0
+    },
+    {
+        "path": "robot.png",
+        "pos": [
+            93,
+            651
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo6.png",
+        "pos": [
+            501,
+            362
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo7.png",
+        "pos": [
+            188,
+            158
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo8.png",
+        "pos": [
+            496,
+            649
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo5.png",
+        "pos": [
+            212,
+            421
+        ],
+        "angle": 0
+    },
+    {
+        "path": "obstaculo2.png",
+        "pos": [
+            863,
+            560
+        ],
+        "angle": 0
+    }
+]
