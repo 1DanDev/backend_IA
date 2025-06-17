@@ -6,7 +6,11 @@ import json
 # === CONFIGURACIÓN DE IMÁGENES ===
 # Asegúrate de que 'casa.png' esté en el mismo directorio que tu script.
 imagenes_config = [
-    {"nombre": "casa.png"}
+    {"nombre": "casa.png"},
+    {"nombre": "edificio.png"},
+    {"nombre": "arbol.png"},
+    {"nombre": "roca.png"},
+    {"nombre": "coche.png"}
 ]
 
 canvas = np.ones((800, 1200, 3), dtype=np.uint8) * 255 # Crea un lienzo blanco
